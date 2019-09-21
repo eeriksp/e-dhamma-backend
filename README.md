@@ -1,7 +1,5 @@
-# E-dhamma Backend
+# E-dhamma
 
-> A Python Django project.
+The source code of the [Pali-Estonian dictionary](https://edhamma.pythonanywhere.com/#/).
 
-## Purpose
-
-This application provides backend for E-dhamma projects such as [Pali-Estonian Dictionary Web Application](https://github.com/e-dhamma/Pali-Estonian-dictionary-web-application).
+**NB: This repository is outdated. The new version can be found [here](https://gitlab.com/edhamma/edhamma)**
